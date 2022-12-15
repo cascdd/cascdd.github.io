@@ -9,14 +9,23 @@
       <link>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 12 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Linux学习笔记</title>
+      <title>Linux课堂笔记</title>
+      <link>/post/first_blog/</link>
+      <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/first_blog/</guid>
+      <description>大三上学期学习Linux的课堂笔记。</description>
+    </item>
+    
+    <item>
+      <title>期末大作业</title>
       <link>/post/biji/</link>
       <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>/post/biji/</guid>
-      <description>大三上学期学习Linux的基础知识</description>
+      <description>Linux期末大作业...</description>
     </item>
     
   </channel>
